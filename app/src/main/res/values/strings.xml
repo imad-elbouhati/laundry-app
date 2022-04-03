@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laundry App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="laundry_app">Laundry App</string>
+    <string name="hint_text">Préparez-vous à vous faciliter la vie en un seul clic sur l\'application, ce qui vous permettra de mieux gérer votre linge</string>
+    <string name="pressing_app">Pressing App</string>
+    <string name="commencez">Commencez</string>
+</resources>
