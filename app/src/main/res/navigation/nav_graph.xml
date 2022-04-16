@@ -18,7 +18,7 @@
     </fragment>
     <fragment
         android:id="@+id/mainFragment"
-        android:name="com.imadev.laundryapp.ui.MainFragment"
+        android:name="com.imadev.laundryapp.ui.main.MainFragment"
         android:label="fragment_main"
         tools:layout="@layout/fragment_main">
 

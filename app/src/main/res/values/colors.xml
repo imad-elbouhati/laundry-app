@@ -10,4 +10,5 @@
     <color name="laundry_green">#0E5D47</color>
     <color name="laundry_green_200">#36997A</color>
     <color name="laundry_orange">#FF8A00</color>
+    <color name="laundry_gray_background">#F7F6F6</color>
 </resources>
